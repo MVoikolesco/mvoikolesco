@@ -7,7 +7,7 @@
 
 <br/>
 
-<div align="center">
+<div align="center" style="display: inline-grid; grid-template-columns: 60% 40%;">
   <a href="https://github.com/MVoikolesco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MVoikolesco&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVoikolesco&layout=compact&langs_count=7&theme=github_dark"/>
