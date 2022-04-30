@@ -4,9 +4,10 @@ Hi 👋 My name is Marcio Voikolesco Jr! Welcome to my Github!
 Front End Web Developer
 -----------------------
 
-🎓 I graduated in System Analysis and Development (UPF) - Universidade de Passo Fundo.
+
 
 * 🌍  I'm based in Brasil
+* 🎓 I graduated in System Analysis and Development (UPF) - Universidade de Passo Fundo.
 * 🖥️  See my portfolio at [GitHub](http://https://github.com/MVoikolesco/)
 * ✉️  You can contact me at [marcioavj.ti@outlook.com](mailto:marcioavj.ti@outlook.com)
 * 🚀  I'm currently working on [eBusiness4us](http://office.builderall.com)
@@ -34,8 +35,6 @@ Front End Web Developer
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/juniormarcio.voikolesco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/mvoikolesco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/marcio_vkjr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/marcio-adilio-voikolesco-junior" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
 
 <b>My GitHub Stats</b>
 
