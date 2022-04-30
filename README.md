@@ -1,5 +1,3 @@
-# Hello, my name is Marcio Voikolesco Junior! Welcome to my Github!
-  
 Hi 👋 My name is Marcio Voikolesco Jr! Welcome to my Github!
 ============================================================
 
