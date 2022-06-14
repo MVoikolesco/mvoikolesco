@@ -6,7 +6,7 @@ Front End Web Developer
 
 
 
-* 🌍  I'm based in Brasil
+* 🌍  I'm based in Brazil
 * 🎓  I'm graduated in System Analysis and Development (UPF) - Universidade de Passo Fundo.
 * 🖥️  See my portfolio at [GitHub](http://https://github.com/MVoikolesco/)
 * ✉️  You can contact me at [marcioavj.ti@outlook.com](mailto:marcioavj.ti@outlook.com)
