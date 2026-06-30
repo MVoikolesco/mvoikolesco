@@ -1,12 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Marcio%20Voikolesco%20Junior&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Web%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=mvoikolesco">
-    <img src="https://komarev.com/ghpvc/?username=mvoikolesco&label=Profile%20views&color=00FFFF&style=flat-square" alt="mvoikolesco's profile views" />
-  </a>
-</p>
+---
 
-## 📌 About Me
+## 👨‍💻 Sobre mim
 - 🌍  Moro no Brasil.
 - 🎓  Graduado em Análise e Desenvolvimento de Sistemas.
 - 💼  Desenvolvedor Full Stack com foco em PHP, Laravel, React, TypeScript e Go.
@@ -16,21 +12,9 @@
 - 🧠  Estudando Arquitetura de Software, Docker, Kubernetes e Inteligência Artificial.
 - 🤝  Aberto para colaborar em projetos Open Source e compartilhar conhecimento.
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/mvoikolesco">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mvoikolesco&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="mvoikolesco's GitHub Stats" />
-  </a>
-</p>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
-
-## 🛠️ Languages & Tools
+## 🛠️ Tecnologias & Ferramentas
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
@@ -57,7 +41,34 @@
 
 </p>
 
+---
 
-### Socials
+## 📊 Atividade no GitHub
+<p align="center">
+  <a href="https://github.com/mvoikolesco">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mvoikolesco&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="mvoikolesco's GitHub Stats" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://www.facebook.com/juniormarcio.voikolesco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/mvoikolesco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mvoikolesco.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/marcio-adilio-voikolesco-junior" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🌍 Onde me encontrar
+
+<p align="center">
+  <a href="mailto:marcioavj.ti@outlook.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+  <a href="https://www.linkedin.com/in/marcio-adilio-voikolesco-junior"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="https://instagram.com/mvoikolesco.dev"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+</p>
+
+---
+
+<p align="center">
+✨ “Transformando café ☕ em código 💻 e ideias em projetos.” ✨  
+⭐ Obrigado por visitar meu perfil!
+</p>
