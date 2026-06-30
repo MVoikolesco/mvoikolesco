@@ -4,8 +4,9 @@
 
 ## 👨‍💻 Sobre mim
 - 🌍  Moro no Brasil.
-- 🎓  Graduado em Análise e Desenvolvimento de Sistemas.
+- 🎓  Graduando em Análise e Desenvolvimento de Sistemas.
 - 💼  Desenvolvedor Full Stack com foco em PHP, Laravel, React, TypeScript e Go.
+- 📊  Mais de 5 anos de experiência atuando como Full Stack
 - 🖥️  Confira meus projetos aqui no GitHub.
 - ✉️  Contato: marcioavj.ti@outlook.com
 - 🚀  Atualmente desenvolvendo aplicações web, APIs e soluções escaláveis.
